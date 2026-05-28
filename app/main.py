@@ -26,3 +26,7 @@ app.include_router(portfolio_router)
 @app.get("/")
 def root():
     return {"message": "Portfolio API Running"}
+
+@app.get("/health")
+def health():
+    return {"Status": "Ok"}
