@@ -6,6 +6,7 @@ portfolio_data = {
         "location": "Dar es salaam, Tanzania"
     },
     "skills": [
+        "PHP",
         "Python",
         "FastAPI",
         "React",
@@ -27,7 +28,7 @@ portfolio_data = {
     "projects": [{
         "name": "RentHouse Application",
         "description": "Application for interaction between buyers and sellers of houses, and for rent house broadcasting..",
-        "tech": ["yii2-PHP","Javascript","MySQL"]
+        "tech": ["yii2-PHP","Javascript","MySQL","HTML","CSS"]
     },
                  {
                      "name": "ML Prediction System",
@@ -35,9 +36,9 @@ portfolio_data = {
                      "tech": ["Python","Scikit-learn"]
                  }],
     "contact": {
-        "phone": "+255794174480",
-        "email": "isayamkumbo@gmail.com",
-        "github": "https://github.com/isayamkumbo",
-        "linkedin": "https://linkedin.com/in/isayamkumbo"
+        "phone": "+255716906484",
+        "email": "isayamkumbo100@gmail.com",
+        "github": "https://github.com/mkumbo",
+        "linkedin": "https://linkedin.com/in/isaya mkumbo"
     }
 }
