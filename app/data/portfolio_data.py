@@ -1,8 +1,9 @@
 portfolio_data = {
     "profile": {
+        "image": "/profile.jpg",
         "name": "ISAYA MKUMBO",
-        "title": "Data Scientist & Full Stack developer",
-        "bio": "Passionate about AI, Data Science, Web Development and build scalable applications.",
+        "title": "Data Science student",
+        "bio": "Data Science student passionate about AI, data analytics, and software development. Skilled in Python, SQL, and building practical projects that solve real-world problems. Continuously learning and exploring modern technologies to create impactful solutions.",
         "location": "Dar es salaam, Tanzania"
     },
     "skills": [
@@ -38,7 +39,8 @@ portfolio_data = {
     "contact": {
         "phone": "+255716906484",
         "email": "isayamkumbo100@gmail.com",
+        "whatsapp": "255716906484",
         "github": "https://github.com/mkumbo",
-        "linkedin": "https://linkedin.com/in/isaya mkumbo"
+        "linkedin": "https://www.linkedin.com/in/isaya-mkumbo-931031267"
     }
 }
